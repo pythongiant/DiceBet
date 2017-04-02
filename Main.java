@@ -27,7 +27,7 @@ public class Main {
 
 
         if (UserInput == random_num){
-            System.out.println("you were right!!!!! You won "+ pound);
+            System.out.println("you were right!!!!! You won "+ bet_amount+ pound);
         }
         else{
             System.out.println("Oi,You were wrong.Now give me my "+bet_amount+ pound);
